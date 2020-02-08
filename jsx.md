@@ -6,7 +6,7 @@ JSX is used to generate HTML for React pages.
 
 Since JSX is JavaScript extention, it can go anywhere JavaScript goes.
 
-But as JSX is JavaScript extention, it needs a compiler like Babel.
+But as JSX is JavaScript extention, it needs a compiler like Babel to be translated to JavaScript.
 
 *Example-*
 
