@@ -35,6 +35,7 @@ ReactDOM.render(
   document.getElementById('appDiv')
 );
 ```
+check [rendering](./rendering.md)
 
 ### Usage
 

@@ -1,2 +1,3 @@
 - [React Introduction](README.md)
 - [JSX](jsx.md)
+- [Rendering](rendering.md)
