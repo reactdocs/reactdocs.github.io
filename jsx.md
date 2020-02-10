@@ -10,7 +10,7 @@ But as JSX is JavaScript extention, it needs a compiler like Babel to be transla
 
 *Example-*
 
-> `const injection = <p>New student</p>` is valid JSX expression.
+> `const injection = <p>New student</p>` is valid JSX expression. It is an example of a react element.
 
 If we had a `<div>` element
 ```
@@ -18,15 +18,13 @@ If we had a `<div>` element
 </div>
 ```
 
-In plain JavaScript we can insert HTML into div like this:
+In plain JavaScript HTML can be inserted into div like this:
 
 ```javascript
 const injection = "<p>New student</p>";
 document.getElementById("appDiv").innerHTML = injection;
 ```
-In React/JSX environment we will do same by:
-
-
+In React/JSX environment same is done by:
 
 ```javascript
 const injection = <p>New student</p>;

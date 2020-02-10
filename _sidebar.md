@@ -1,3 +1,7 @@
 - [React Introduction](README.md)
 - [JSX](jsx.md)
 - [Rendering](rendering.md)
+- Components
+  - [Class Component](classComponent.md)
+  - [Function Component](functionComponent.md)
+- [Props](props.md)
