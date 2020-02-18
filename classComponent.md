@@ -1,9 +1,3 @@
-# Component
-
-> Component is an independent piece that generates some JSX (which generates HTML eventually), used in the react code.
-
-> There are 2 types of components: Class Components and Function Components.
-
 # Class Component
 
 > Class component extends the React.Component class and have access to React.Component's functions.
@@ -32,8 +26,6 @@ ReactDOM.render(
 ```
 
 Note how we can use the component in the ReactDOM.render() function, and how ```<ExampleClassComponent />``` can be self closing tag.
-<br/><br/>
-<span style="background-color: #FFFF00; padding:5px;">
-Component names should start with Capital letters for react to differentiate them from HTML elements.
-</span>
 
+
+Previous: [Component](component.md) | Next: [Function Component](functionComponent.md)

@@ -21,3 +21,5 @@ ReactDOM.render(
 );
 ```
 
+Previous: [Class Component](classComponent.md) | Next: [Props](props.md)
+

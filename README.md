@@ -21,3 +21,4 @@ Also, React is available on multiple platforms like React Native for mobile apps
 
 Looking at React code gives an robust view of data that a Component uses internally (State) and the inputs received from elsewhere (Props), if properly coded.
 
+Next: [JSX](jsx.md)

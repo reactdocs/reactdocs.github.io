@@ -56,3 +56,5 @@ Note how a prop can be passed using Javascript inside parenthesis.
 
 Calling parent component decides enclosed component's props. A component should never attempt to change its props, just should read it.
 
+Previous [Function Component](functionComponent.md) | Next: [State](./state.md)
+

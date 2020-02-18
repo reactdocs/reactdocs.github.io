@@ -1,7 +1,12 @@
 - [React Introduction](README.md)
 - [JSX](jsx.md)
 - [Rendering](rendering.md)
-- Components
+- [Component](component.md)
   - [Class Component](classComponent.md)
   - [Function Component](functionComponent.md)
 - [Props](props.md)
+- [State](state.md)
+  - [Class Component State](classState.md)
+  - [Function Component State via Hooks](functionState.md)
+- [Lifecycle Methods](lifecycle.md)
+- [Mini Project 1](project1.md)

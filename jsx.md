@@ -27,6 +27,10 @@ document.getElementById("appDiv").innerHTML = injection;
 In React/JSX environment same is done by:
 
 ```javascript
+
+import React from 'react';
+import ReactDOM from 'react-dom';
+
 const injection = <p>New student</p>;
 ReactDOM.render(
   injection,
@@ -94,6 +98,8 @@ const studentStatus = (
   );
 
 ```
+
+Previous: [React Introduction](README.md) | Next: [Rendering](rendering.md)
 
 
 
